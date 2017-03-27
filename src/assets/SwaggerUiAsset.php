@@ -1,4 +1,4 @@
-<?
+<?php
 namespace veksa\swagger\yii2\assets;
 
 use yii\web\AssetBundle;
