@@ -1,4 +1,4 @@
-<?
+<?php
 use veksa\swagger\yii2\SwaggerUiAsset;
 
 /**
