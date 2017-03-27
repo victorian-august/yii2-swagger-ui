@@ -28,7 +28,7 @@
     },
     "autoload": {
         "psr-4": {
-             "veksa\\swagger\\yii2\\": "src"
+             "victorian-august\\swagger\\yii2\\": "src"
         }
     },
     "extra": {
